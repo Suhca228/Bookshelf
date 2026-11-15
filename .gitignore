@@ -1,0 +1,23 @@
+.DS_Store
+
+# SwiftPM / Xcode build products
+.build/
+.swiftpm/
+build/
+DerivedData/
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+*.dSYM/
+
+# Local caches and packaged artifacts
+.cache/
+dist/
+*.zip
+*.log
+
+# Generated icon intermediates (AppIcon.icns is committed)
+Assets/AppIcon.iconset/
+
+# Local helper binaries
+.tools/

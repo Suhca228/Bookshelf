@@ -1,0 +1,9 @@
+This app bundles the `ddjvu` command-line tool from DjVuLibre 3.5.29
+(https://djvu.sourceforge.net/), used to convert DJVU files to PDF on import.
+
+DjVuLibre is free software distributed under the GNU General Public License
+version 2 or later. The complete source code is available at:
+https://sourceforge.net/projects/djvu/files/DjVuLibre/3.5.30/
+
+The tool is invoked as a separate process; no DjVuLibre code is linked into
+the application binary.
